@@ -1,0 +1,10 @@
+{
+  "name": "link2code",
+  "title": "link2code",
+  "id": "jid1-USLBBgacViWAAg@jetpack",
+  "icon": "icon.png",
+  "description": "You'll get a context menu that provides a QRCode for the click-target element.",
+  "author": "ladjzero@gmail.com",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
